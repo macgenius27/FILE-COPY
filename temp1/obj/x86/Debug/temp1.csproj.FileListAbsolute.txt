@@ -1,0 +1,13 @@
+F:\temp1\temp1\bin\Debug\temp1.exe
+F:\temp1\temp1\bin\Debug\temp1.pdb
+F:\temp1\temp1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\temp1\temp1\obj\x86\Debug\temp1.Form1.resources
+F:\temp1\temp1\obj\x86\Debug\temp1.Properties.Resources.resources
+F:\temp1\temp1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\temp1\temp1\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\temp1\temp1\obj\x86\Debug\temp1.exe
+F:\temp1\temp1\obj\x86\Debug\temp1.pdb
+F:\Projects\temp1\temp1\obj\x86\Debug\temp1.exe
+F:\Projects\temp1\temp1\obj\x86\Debug\temp1.pdb
+D:\Semistr\7th\distributed Computing\FILE COPY\temp1\obj\x86\Debug\temp1.exe
+D:\Semistr\7th\distributed Computing\FILE COPY\temp1\obj\x86\Debug\temp1.pdb
